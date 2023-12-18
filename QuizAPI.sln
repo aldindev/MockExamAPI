@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizAPI", "QuizAPI\QuizAPI.csproj", "{119C622E-B910-4452-A4DE-E7B7079C4AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119C622E-B910-4452-A4DE-E7B7079C4AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119C622E-B910-4452-A4DE-E7B7079C4AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119C622E-B910-4452-A4DE-E7B7079C4AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119C622E-B910-4452-A4DE-E7B7079C4AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A6FE5D1-CD80-4E65-9830-86C3FD5225ED}
+	EndGlobalSection
+EndGlobal
